@@ -19,12 +19,12 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['http://wa.me94703392141']
-global.premium = ['http://wa.me94703392141']
-global.ownernomer = 'http://wa.me94703392141'
+global.owner = ['94703392141']
+global.premium = ['94703392141']
+global.ownernomer = '94703392141'
 global.ownername = '🐦MR - BOSA'
 global.botname = 'KAVIYA WHATSAPP BOT'
-global.footer = '©NexusNwInc.'
+global.footer = '©MR-Kavindu Dilshan.'
 global.ig = 'https://github.com/Kaviyaofc'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/Kaviyaofc/multitest-01'
