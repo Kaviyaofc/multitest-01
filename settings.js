@@ -1,7 +1,7 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
-//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
+//                              DARK〠⃞NEWT-BOT 𝓫𝔂 𝙺𝙰𝚅𝙸𝙽𝙳𝚄 𝙳𝙸𝙻𝚂𝙷𝙰𝙽
+//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙺𝙰𝚅𝙸𝙽𝙳𝚄 𝙳𝙸𝙻𝚂𝙷𝙰𝙽 
 //
 //════════════════════════════//
 
@@ -26,11 +26,11 @@ global.ownername = '🐦MR - BOSA'
 global.botname = 'KAVIYA WHATSAPP BOT'
 global.footer = '©MR-Kavindu Dilshan.'
 global.ig = 'https://github.com/Kaviyaofc'
-global.region = 'India, South India, Kerala'
+global.region = 'Sri Lanka, Centrel Province, Galewel'
 global.sc = 'https://github.com/Kaviyaofc/multitest-01'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
 global.packname = 'KAVIYA WHATSAPP BOT'
-global.author = '🐦MR - BOSA'
+global.author = '🐦Kaviyaofc'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
